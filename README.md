@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+
+## 🌐 My Portfolio
+
+🔗 **[Visit My Portfolio →](https://charu-portfolio.vercel.app)**
+
 # Charu Brunda Hasini — Portfolio
 
 A modern, responsive developer portfolio built with React, TypeScript, and Tailwind CSS. Features a dark-first design with an optional light theme, smooth animations, and interactive UI elements.
@@ -49,13 +53,6 @@ npm run dev
 # Build for production
 npm run build
 ```
-
-## Inspiration
-
-- [devar.sh](https://www.devar.sh/)
-- [utkarshkumar.vercel.app](https://utkarshkumar.vercel.app/)
-- [parthsharma.me](https://parthsharma.me/)
-- [parthmittal.netlify.app](https://parthmittal.netlify.app/)
 
 ## License
 

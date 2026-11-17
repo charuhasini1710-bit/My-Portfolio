@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Charu Brunda Hasini — Portfolio
 
 A modern, responsive developer portfolio built with React, TypeScript, and Tailwind CSS. Features a dark-first design with an optional light theme, smooth animations, and interactive UI elements.
@@ -59,3 +60,6 @@ npm run build
 ## License
 
 Feel free to use this as a template for your own portfolio. Contributions are welcome.
+=======
+# My-Portfolio
+>>>>>>> ceaf805322dfc07e55ebc1971f37c49bd1781ebb
